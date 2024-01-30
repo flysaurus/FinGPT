@@ -6,3 +6,8 @@ yfinance
 finnhub-python
 nvidia-ml-py3
 openai
+datasets
+ipywidgets 
+widgetsnbextension 
+pandas-profiling
+python-dotenv
